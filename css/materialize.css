@@ -7962,7 +7962,7 @@ header{
   .right_column_page {
       margin-top: 0px;
       text-align: center;
-  } 
+  }
 }
 
 .left_column_page{
@@ -7977,7 +7977,7 @@ header{
   .left_column_page {
       margin-top: 0px;
       text-align: center;
-  } 
+  }
 }
 
 #index-banner{
@@ -7997,7 +7997,7 @@ header{
 @media only screen and (max-width : 992px) {
     #contact_form{
         width: auto;
-    }      
+    }
 }
 
 input, textarea {
@@ -8016,11 +8016,11 @@ input, textarea {
 textarea {
   height: 10em;
   resize: none;
-  
+
 }
  .submit-wrap {
   text-align: center;
-  
+
 }
  [type="submit"] {
   background: #448AFF;
@@ -8043,7 +8043,7 @@ textarea {
   -moz-box-shadow:    0px 0px 10px 3px #9E9E9E;
   -webkit-box-shadow: 0px 0px 10px 3px #9E9E9E;
   box-shadow:         0px 0px 10px 3px #9E9E9E;
-  
+
 }
 
  [type="submit"]:active {
@@ -8066,5 +8066,6 @@ textarea {
     margin-right: auto;
 }
 
-
-
+#promo-text{
+  margin-top: 135px;
+}
